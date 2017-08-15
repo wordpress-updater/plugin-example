@@ -9,7 +9,7 @@
  * that starts the plugin.
  *
  * @link              http://example.com
- * @since             1.0.0
+ * @since             2.0.0
  * @package           Plugin_Example
  *
  * @wordpress-plugin
